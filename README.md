@@ -8,6 +8,7 @@ Learning in public
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gliese-W/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gliese-W/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Gliese-W/DSA/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -17,4 +18,8 @@ Learning in public
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gliese-W/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gliese-W/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Gliese-W/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

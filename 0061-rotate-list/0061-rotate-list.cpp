@@ -10,41 +10,64 @@
  */
 class Solution {
 public:
-    ListNode* rotateByOne(ListNode* t1){
-        ListNode* temp = t1;
-        ListNode* prev = NULL;
+    // ListNode* rotateByOne(ListNode* t1){
+    //     ListNode* temp = t1;
+    //     ListNode* prev = NULL;
 
-        while(temp->next != NULL){
-            prev = temp;
-            temp = temp->next;
-        }
-        temp->next = t1;
-        prev->next = NULL;
-        t1 = temp;
+    //     while(temp->next != NULL){
+    //         prev = temp;
+    //         temp = temp->next;
+    //     }
+    //     temp->next = t1;
+    //     prev->next = NULL;
+    //     t1 = temp;
 
-        return t1;
-    }
+    //     return t1;
+    // }
 
     ListNode* rotateRight(ListNode* head, int k) {
+
+        if (head == NULL || k==0) return head;
+
         ListNode* temp = head;
-        ListNode* newHead = NULL;
+        ListNode* tail = head;
+        int count = 1;
 
-        if (head ==NULL || head->next==NULL) return head;
-
-        ListNode* counting = head;
-        int count = 0;
-        while(counting){
+        while(tail->next){
             count++;
-            counting = counting->next;
+            tail = tail->next;
         }
+        tail->next = head;
+
         k = k%count;
-
-        if (k==0) return head;
-
-        while (k--){
-            newHead = rotateByOne(temp);
-            temp = newHead;
+        k = count - k - 1;
+        while(k--){
+            temp = temp->next;
         }
-        return newHead;
+        head = temp->next;
+        temp->next = NULL;
+
+        return head;
+
+        // ListNode* temp = head;
+        // ListNode* newHead = NULL;
+
+        // if (head ==NULL || head->next==NULL) return head;
+
+        // ListNode* counting = head;
+        // int count = 0;
+        // while(counting){
+        //     count++;
+        //     counting = counting->next;
+        // }
+        // k = k%count;
+
+        // if (k==0) return head;
+
+        // while (k--){
+        //     newHead = rotateByOne(temp);
+        //     temp = newHead;
+        // }
+        // return newHead;
     }
 };

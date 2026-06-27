@@ -29,7 +29,7 @@ public:
         ListNode* temp = head;
         ListNode* newHead = NULL;
 
-        if (head == NULL || k==0 || head->next==NULL) return head;
+        if (head ==NULL || head->next==NULL) return head;
 
         ListNode* counting = head;
         int count = 0;

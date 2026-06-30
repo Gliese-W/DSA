@@ -16,6 +16,7 @@ Learning in public
 | [0234-palindrome-linked-list](https://github.com/Gliese-W/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gliese-W/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gliese-W/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -45,4 +46,21 @@ Learning in public
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Gliese-W/DSA/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->

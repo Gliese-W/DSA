@@ -45,6 +45,7 @@ Learning in public
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gliese-W/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Gliese-W/DSA/tree/master/0234-palindrome-linked-list) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 ## Array
@@ -54,6 +55,7 @@ Learning in public
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gliese-W/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -63,4 +65,8 @@ Learning in public
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Gliese-W/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

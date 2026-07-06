@@ -42,6 +42,7 @@ Learning in public
 | [0138-copy-list-with-random-pointer](https://github.com/Gliese-W/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Gliese-W/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gliese-W/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -50,10 +51,12 @@ Learning in public
 | [0225-implement-stack-using-queues](https://github.com/Gliese-W/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gliese-W/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gliese-W/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -79,4 +82,8 @@ Learning in public
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gliese-W/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

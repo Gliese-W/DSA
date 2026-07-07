@@ -1,0 +1,35 @@
+class Solution {
+public:
+    vector<int> nextGreaterElements(vector<int>& nums) {
+
+        vector<int> nge;
+
+        for (int i=0; i<nums.size(); i++){
+
+            bool flag = 0;
+
+            for (int j=i+1; j<nums.size(); j++){
+                if (nums[j] > nums[i]){
+                    nge.push_back(nums[j]);
+                    flag = 1;
+                    break;
+                }
+            }
+            
+            if (!flag) {
+                for (int k=0; k<i; k++){
+                    if (nums[k] > nums[i]){
+                        nge.push_back(nums[k]);
+                        flag = 1;
+                        break;
+                    }
+                }
+            }
+
+            if (!flag){
+                nge.push_back(-1);
+            }
+        }
+        return nge;
+    }
+};

@@ -31,6 +31,7 @@ Learning in public
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Gliese-W/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Gliese-W/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gliese-W/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -47,6 +48,7 @@ Learning in public
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gliese-W/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Gliese-W/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Gliese-W/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gliese-W/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -58,6 +60,7 @@ Learning in public
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gliese-W/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gliese-W/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -89,11 +92,13 @@ Learning in public
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gliese-W/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gliese-W/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gliese-W/DSA/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->

@@ -1,43 +1,82 @@
-using ll = long long;
-const int MOD = 1e9 + 7;
-
 class Solution {
 public:
-    int sumSubarrayMins(vector<int>& nums) {
-        int length = nums.size();
-        vector<int> left(length, -1);
-        vector<int> right(length, length);
-        stack<int> stk;
 
-        for (int i = 0; i < length; ++i) {
-            while (!stk.empty() && nums[stk.top()] >= nums[i]) {
-                stk.pop();
+    vector<int> findNSE(vector<int>& arr){
+        vector<int> nse(arr.size());
+        stack<int> st;
+
+        for (int i=arr.size()-1; i>=0; i--){
+            while (!st.empty() && arr[st.top()] >= arr[i]){
+                st.pop();
             }
-            if (!stk.empty()) {
-                left[i] = stk.top();
-            }
-            stk.push(i);
+            nse[i] = st.empty() ? arr.size() : st.top();
+
+            st.push(i);
         }
 
-        stk = stack<int>();
+        return nse;
 
-        for (int i = length - 1; i >= 0; --i) {
-            while (!stk.empty() && nums[stk.top()] > nums[i]) {
-                stk.pop();
+    }
+
+    vector<int> findPSE(vector<int>& arr){
+        vector<int> pse(arr.size());
+        stack<int> st;
+
+        for (int i=0; i<arr.size(); i++){
+            while (!st.empty() && arr[st.top()] > arr[i]){
+                st.pop();
             }
-            if (!stk.empty()) {
-                right[i] = stk.top();
-            }
-            stk.push(i);
+            pse[i] = st.empty() ? -1 : st.top();
+
+            st.push(i);
         }
 
-        ll sum = 0;
+        return pse;
 
-        for (int i = 0; i < length; ++i) {
-            sum += static_cast<ll>(i - left[i]) * (right[i] - i) * nums[i] % MOD;
-            sum %= MOD;
+    }
+
+    int sumSubarrayMins(vector<int>& arr) {
+
+        vector<int> nse = findNSE(arr);
+        vector<int> pse = findPSE(arr);
+        int total = 0, mod = (int) (1e9+7);
+
+        for (int i=0; i<arr.size(); i++){
+            int left = i - pse[i];
+            int right = nse[i] - i;
+
+            total = (total + (1LL*right*left*arr[i]) % mod) % mod;
         }
 
-        return sum;
+        return total;
+
+
+
+
+
+
+
+
+        
+        // int mod = 1e9 + 7;
+        // long long total = 0;
+
+        // for (int i=0; i<arr.size(); i++){
+
+        //     // or use this:
+        //     vector<int> subTotal;
+
+        //     // int mini = arr[i];
+
+        //     for (int j=i; j<arr.size(); j++){
+        //         subTotal.push_back(arr[j]);
+        //         total += *min_element(subTotal.begin(), subTotal.end()) % mod;
+                
+
+        //         // mini = min(mini, arr[j]);
+        //         // total = (total+mini)%mod;
+        //     }      
+        // } 
+        // return total;
     }
 };

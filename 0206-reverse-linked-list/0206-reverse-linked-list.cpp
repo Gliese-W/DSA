@@ -10,65 +10,16 @@
  */
 class Solution {
 public:
-
-    // recursive function
-    ListNode* reverse(ListNode* head){
-        if (head == NULL || head->next == NULL) return head;
-
-        ListNode* prev = NULL;
+    ListNode* reverseList(ListNode* head) {
         ListNode* curr = head;
-        
-        while (curr){
+        ListNode* prev = NULL;
+
+        while(curr){
             ListNode* front = curr->next;
             curr->next = prev;
             prev = curr;
             curr = front;
         }
         return prev;
-    }
-
-
-    ListNode* reverseList(ListNode* head) {
-
-        // Method 3 - Recursion
-        head = reverse(head);
-        return head;
-        
-        
-
-        // Method 2 - Three pointers
-
-        // ListNode* temp = head;
-        // ListNode* prev = NULL;
-
-        // while (temp != NULL){
-        //     ListNode* front = temp->next;
-        //     temp->next = prev;
-        //     prev = temp;
-        //     temp = front;
-        // }
-
-        // return prev;
-
-
-
-        // Method - 01 - Stack
-
-        // stack<int> st;
-        // ListNode* temp = head;
-        
-        // while (temp){
-        //     st.push(temp->val);
-        //     temp = temp->next;
-        // }
-
-        // temp = head;
-        // while (temp){
-        //     temp->val = st.top();
-        //     st.pop();
-        //     temp = temp->next;
-        // }
-
-        // return head;
     }
 };

@@ -1,4 +1,4 @@
-// C++
+
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
@@ -6,7 +6,6 @@ public:
         vector<int> left(n), right(n);
         stack<int> st;
 
-        // Nearest Smaller to Left
         for (int i = 0; i < n; i++) {
             while (!st.empty() && heights[st.top()] >= heights[i]) st.pop();
             left[i] = st.empty() ? -1 : st.top();
@@ -15,7 +14,6 @@ public:
 
         while (!st.empty()) st.pop();
 
-        // Nearest Smaller to Right
         for (int i = n - 1; i >= 0; i--) {
             while (!st.empty() && heights[st.top()] >= heights[i]) st.pop();
             right[i] = st.empty() ? n : st.top();

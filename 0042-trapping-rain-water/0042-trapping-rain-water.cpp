@@ -11,19 +11,17 @@ public:
         int totalWater = 0;
 
         while (start < end){
-
             leftMax = max(leftMax, height[start]);
             rightMax = max(rightMax, height[end]);
 
             if (leftMax < rightMax){
                 totalWater += leftMax - height[start];
                 start ++;
-            } else {
+            } else{
                 totalWater += rightMax - height[end];
                 end--;
             }
         }
-
         return totalWater;
 
 

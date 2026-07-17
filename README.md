@@ -43,6 +43,7 @@ Learning in public
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gliese-W/DSA/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/Gliese-W/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Gliese-W/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gliese-W/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -68,6 +69,7 @@ Learning in public
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gliese-W/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gliese-W/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Gliese-W/DSA/tree/master/0085-maximal-rectangle) |

@@ -23,6 +23,7 @@ Learning in public
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gliese-W/DSA/tree/master/0002-add-two-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gliese-W/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +134,8 @@ Learning in public
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Gliese-W/DSA/tree/master/0085-maximal-rectangle) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Gliese-W/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

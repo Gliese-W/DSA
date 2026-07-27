@@ -80,6 +80,7 @@ Learning in public
 | [0628-maximum-product-of-three-numbers](https://github.com/Gliese-W/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Gliese-W/DSA/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gliese-W/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gliese-W/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
@@ -140,5 +141,10 @@ Learning in public
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gliese-W/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gliese-W/DSA/tree/master/3536-maximum-product-of-two-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->

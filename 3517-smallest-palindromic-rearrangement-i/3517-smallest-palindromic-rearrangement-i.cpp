@@ -21,13 +21,14 @@ public:
 
         reverse(second.begin(), second.end());
 
-        // string mid = "";
-        // mid += s[(s.size()+1)/2];
+        string mid = "";
+        mid += s[s.size()/2];
 
         if (s.size()%2==0){
             return first + second;
         }
 
-        return first + string(1, s[s.size()/2]) + second;
+        // return first + string(1, s[s.size()/2]) + second;
+        return first + mid + second;
     }
 };

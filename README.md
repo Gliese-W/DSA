@@ -24,6 +24,7 @@ Learning in public
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gliese-W/DSA/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gliese-W/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gliese-W/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gliese-W/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ Learning in public
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gliese-W/DSA/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Gliese-W/DSA/tree/master/0402-remove-k-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gliese-W/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gliese-W/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
 |  |
@@ -134,6 +136,7 @@ Learning in public
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Gliese-W/DSA/tree/master/0402-remove-k-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gliese-W/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Matrix
 |  |
 | ------- |

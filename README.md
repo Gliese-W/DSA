@@ -160,4 +160,8 @@ Learning in public
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gliese-W/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gliese-W/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Gliese-W/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

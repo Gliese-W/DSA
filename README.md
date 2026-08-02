@@ -24,6 +24,7 @@ Learning in public
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gliese-W/DSA/tree/master/0002-add-two-numbers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gliese-W/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Gliese-W/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gliese-W/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gliese-W/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
@@ -81,6 +82,7 @@ Learning in public
 | [0503-next-greater-element-ii](https://github.com/Gliese-W/DSA/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gliese-W/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Gliese-W/DSA/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/Gliese-W/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gliese-W/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gliese-W/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -129,6 +131,7 @@ Learning in public
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Gliese-W/DSA/tree/master/0085-maximal-rectangle) |
+| [0877-stone-game](https://github.com/Gliese-W/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Gliese-W/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -164,4 +167,8 @@ Learning in public
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Gliese-W/DSA/tree/master/0175-combine-two-tables) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Gliese-W/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

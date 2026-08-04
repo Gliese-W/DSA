@@ -53,6 +53,7 @@ Learning in public
 | [0142-linked-list-cycle-ii](https://github.com/Gliese-W/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gliese-W/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3731-find-missing-elements](https://github.com/Gliese-W/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Learning in public
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gliese-W/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [3731-find-missing-elements](https://github.com/Gliese-W/DSA/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Learning in public
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gliese-W/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gliese-W/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Gliese-W/DSA/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

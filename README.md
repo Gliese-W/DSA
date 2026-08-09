@@ -89,6 +89,7 @@ Learning in public
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gliese-W/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
+| [1929-concatenation-of-array](https://github.com/Gliese-W/DSA/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gliese-W/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [3731-find-missing-elements](https://github.com/Gliese-W/DSA/tree/master/3731-find-missing-elements) |
 ## Design
@@ -141,6 +142,7 @@ Learning in public
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Gliese-W/DSA/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/Gliese-W/DSA/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |

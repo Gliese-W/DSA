@@ -88,6 +88,7 @@ Learning in public
 | [0907-sum-of-subarray-minimums](https://github.com/Gliese-W/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gliese-W/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Gliese-W/DSA/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/Gliese-W/DSA/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gliese-W/DSA/tree/master/2104-sum-of-subarray-ranges) |

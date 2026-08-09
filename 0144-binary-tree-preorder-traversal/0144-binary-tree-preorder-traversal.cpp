@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-public:
+private:
     void preOrder(TreeNode* root, vector<int>& ans){
 
         if (root == NULL){
@@ -21,6 +21,8 @@ public:
         preOrder(root->right, ans);
 
     }
+
+public: 
 
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;

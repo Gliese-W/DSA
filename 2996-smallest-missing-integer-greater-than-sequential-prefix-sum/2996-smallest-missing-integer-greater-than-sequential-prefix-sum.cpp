@@ -11,8 +11,6 @@ public:
             }
         }
 
-        
-
         int check = sum;
 
         while (true){

@@ -84,6 +84,7 @@ Learning in public
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gliese-W/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gliese-W/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Gliese-W/DSA/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Gliese-W/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
@@ -237,4 +238,12 @@ Learning in public
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gliese-W/DSA/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gliese-W/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gliese-W/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

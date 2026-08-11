@@ -84,6 +84,7 @@ Learning in public
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gliese-W/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Gliese-W/DSA/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Gliese-W/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Gliese-W/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Gliese-W/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -128,6 +129,7 @@ Learning in public
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gliese-W/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Gliese-W/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gliese-W/DSA/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Gliese-W/DSA/tree/master/0402-remove-k-digits) |
@@ -231,4 +233,8 @@ Learning in public
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gliese-W/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gliese-W/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gliese-W/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

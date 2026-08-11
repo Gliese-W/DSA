@@ -56,6 +56,7 @@ Learning in public
 | [0496-next-greater-element-i](https://github.com/Gliese-W/DSA/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Gliese-W/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gliese-W/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gliese-W/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Gliese-W/DSA/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -100,6 +101,7 @@ Learning in public
 | [1472-design-browser-history](https://github.com/Gliese-W/DSA/tree/master/1472-design-browser-history) |
 | [1929-concatenation-of-array](https://github.com/Gliese-W/DSA/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Gliese-W/DSA/tree/master/2104-sum-of-subarray-ranges) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gliese-W/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Gliese-W/DSA/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -168,6 +170,7 @@ Learning in public
 | [0645-set-mismatch](https://github.com/Gliese-W/DSA/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gliese-W/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Gliese-W/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gliese-W/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gliese-W/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gliese-W/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Gliese-W/DSA/tree/master/3731-find-missing-elements) |

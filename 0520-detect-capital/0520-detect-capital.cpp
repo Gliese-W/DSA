@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool detectCapitalUse(string word) {
+        bool flag = true;
 
         if (word.size() <= 1) return true;
 
@@ -10,7 +11,8 @@ public:
         if (isupper(firstLetter) && isupper(secondLetter)){
             for (int i=2; i<word.size(); i++){
                 if (!isupper(word[i])){
-                    return false;
+                    flag = false;
+                    break;
                 }
             }
         }
@@ -18,7 +20,8 @@ public:
         if (islower(firstLetter)){
             for (int i=1; i<word.size(); i++){
                 if (!islower(word[i])){
-                    return false;
+                    flag = false;
+                    break;
                 }
             }
         }
@@ -26,11 +29,12 @@ public:
         if (isupper(firstLetter) && !isupper(secondLetter)){
             for (int i=2; i<word.size(); i++){
                 if (!islower(word[i])){
-                    return false;
+                    flag = false;
+                    break;
                 } 
             }
         }
 
-        return true;
+        return flag;
     }
 };

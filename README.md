@@ -134,6 +134,7 @@ Learning in public
 | [0020-valid-parentheses](https://github.com/Gliese-W/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gliese-W/DSA/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/Gliese-W/DSA/tree/master/0402-remove-k-digits) |
+| [0520-detect-capital](https://github.com/Gliese-W/DSA/tree/master/0520-detect-capital) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gliese-W/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Gliese-W/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Monotonic Stack
